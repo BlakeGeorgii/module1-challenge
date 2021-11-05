@@ -9,5 +9,5 @@ The finished project was push to the repository, published on GitHub Pages and t
 
 ##Links
 
-To Repository: https://github.com/BlakeGeorgii/module1-challenge
-To GitHub Pages: https://blakegeorgii.github.io/module1-challenge/#search-engine-optimization
+* To Repository: https://github.com/BlakeGeorgii/module1-challenge
+* To GitHub Pages: https://blakegeorgii.github.io/module1-challenge/#search-engine-optimization
