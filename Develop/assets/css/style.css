@@ -122,6 +122,7 @@ header nav ul li {
     max-width: 150px;
 }
 /* benifits end */
+/* footer start */
 footer {
     padding: 30px;
     clear: both;
@@ -132,3 +133,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer end */
